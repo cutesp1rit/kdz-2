@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\bin\Debug\net6.0\CSV-Library.deps.json
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\bin\Debug\net6.0\CSV-Library.dll
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\bin\Debug\net6.0\CSV-Library.pdb
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.dll
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\refint\CSV-Library.dll
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\CSV-Library.pdb
+C:\Users\lenovo\source\repos\KDZ-2\CSV-Library\obj\Debug\net6.0\ref\CSV-Library.dll
